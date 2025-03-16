@@ -18,7 +18,7 @@ Provided APIs:
 
 ## Database Diagram
 
-![DBDiagram](https://github.com/EngRobot33/Trello/blob/master/database_diagram.png)
+![DBDiagram](https://github.com/HaamedKhosravii/Authentication/Trello/blob/master/database_diagram.png)
 
 ## Easy Setup by Docker
 
@@ -30,7 +30,7 @@ docker-compose up
 
 * First of all clone the project:
 ```
-git clone https://github.com/EngRobot33/Trello.git
+git clone https://github.com/HaamedKhosravii/Authentication/Trello.git
 ```
 * Then, we need a virtual environment you can create like this:
 ```
